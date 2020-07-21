@@ -1,0 +1,53 @@
+{
+  "Menu_Bill": "Bill",
+  "Menu_History": "History",
+  "Menu_Planning": "Planning",
+  "Menu_NewRecord": "New record",
+  "Menu_Categories": "Categories",
+
+  "HistoryTitle": "History records",
+  "ProfileTitle": "Profile",
+  "LoginTitle": "Login",
+  "RegisterTitle": "Register",
+  "Logout" : "Logout",
+  "DetailRecord": "Record detail",
+
+  "CurrencyAccount": "Currency account",
+  "ExchangeRates": "Exchange rates",
+  "Edit": "Edit",
+
+  "Name": "Name",
+  "Currency": "Currency",
+  "Rate": "Rate",
+  "Date": "Date",
+  "Sum": "Sum",
+  "Category": "Category",
+  "Type": "Type",
+  "ChooseCategory": "Choose category",
+  "Income": "Income",
+  "Outcome": "Outcome",
+  "Description": "Description",
+  "Title": "Title",
+  "Limit": "Limit",
+
+  "Tooltip_ViewRecord": "View record",
+
+  "Update": "Update",
+  "Open": "Open",
+  "Create": "Create",
+
+  "No_Categories": "Categories not created.",
+  "No_Records": "Records not created.",
+  "RecordNotFound": "Record not found",
+
+  "Link_CategoryCreate": "Create a new category",
+  "Link_CreateRecord": "Create a new record",
+
+  "Message_EnterName": "Enter name",
+  "Message_SumLess1RUB": "Amount cannot be less than 1 RUB",
+  "Message_EnterDescription": "Enter a description",
+  "Message_EnterTitle": "Enter a category name",
+  "Message_MinValue": "The minimum value is 100 RUB",
+
+  "": ""
+}

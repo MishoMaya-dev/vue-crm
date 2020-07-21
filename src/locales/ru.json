@@ -1,0 +1,53 @@
+{
+  "Menu_Bill": "Счет",
+  "Menu_History": "История",
+  "Menu_Planning": "Планирование",
+  "Menu_NewRecord": "Новая запись",
+  "Menu_Categories": "Категории",
+
+  "HistoryTitle": "История записей",
+  "ProfileTitle": "Профиль",
+  "LoginTitle": "Войти",
+  "RegisterTitle": "Регистрация",
+  "Logout" : "Выйти",
+  "DetailRecord": "Детали записи",
+
+  "CurrencyAccount": "Счет в валюте",
+  "ExchangeRates": "Курс валют",
+  "Edit": "Редактировать",
+
+  "Name": "Имя",
+  "Currency": "Валюта",
+  "Rate": "Курс",
+  "Date": "Дата",
+  "Sum": "Сумма",
+  "Category": "Категория",
+  "Type": "Тип",
+  "ChooseCategory": "Выберите категорию",
+  "Income": "Доход",
+  "Outcome": "Расход",
+  "Description": "Описание",
+  "Title": "Название",
+  "Limit": "Лимит",
+
+  "Tooltip_ViewRecord": "Посмотреть запись",
+
+  "Update": "Обновить",
+  "Open": "Открыть",
+  "Create": "Создать",
+
+  "No_Categories": "Категорий пока нет. ",
+  "No_Records": "Записей пока нет. ",
+  "RecordNotFound": "Запись не найдена",
+
+  "Link_CategoryCreate": "Создать новую категорию",
+  "Link_CreateRecord": "Добавить новую запись",
+
+  "Message_EnterName": "Введите имя",
+  "Message_Sum1RUB": "Сумма не может быть менее 1 RUB",
+  "Message_EnterDescription": "Введите описание",
+  "Message_EnterTitle": "Введите название категории",
+  "Message_MinValue": "Минимальная величина 100 RUB",
+
+  "": ""
+}
